@@ -58,7 +58,6 @@ rainy,75.0,80.0,false,yes
 ## OUTPUT:
 
 ![employee](https://github.com/Priya-Loganathan/WDM_EXP1/assets/121166075/53653eec-6253-4beb-8007-5ee3dfea2ff8)
-
 ![weather](https://github.com/Priya-Loganathan/WDM_EXP1/assets/121166075/626f57b3-2819-45c9-b07e-4144c69ce96c)
 
 ## PREPROCESSING
